@@ -1,6 +1,8 @@
 ---
 date: "2017-12-22T00:00:00Z"
 published: true
+aliases:
+    - /2017-12-22-how-to-authorize-using-oauth-2-0-in-postman/
 title: How to authorize using OAuth 2.0 in Postman
 ---
 

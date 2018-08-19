@@ -2,6 +2,8 @@
 date: "2017-12-12T00:00:00Z"
 published: true
 subtitle: Initial results suggest improvement over standard techniques
+aliases:
+    - /2017-12-12-google-researchers-find-that-machine-learning-could-be-better-for-indexing/
 title: Google researchers find that Machine Learning could be better for Indexing
 ---
 

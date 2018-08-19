@@ -6,6 +6,8 @@ gh-badge:
 - follow
 gh-repo: infinitecoder/gcc-docker
 published: true
+aliases:
+    - /2018-03-29-building-gcc-docker-image/
 title: Building GCC docker image
 ---
 

@@ -3,6 +3,8 @@ date: "2017-12-24T00:00:00Z"
 gh-badge: fork
 gh-repo: InfiniteCoder/SpringBoot2OAuth2
 published: true
+aliases:
+    - /2017-12-24-how-to-use-google-oauth-2-0-in-spring-boot-2-0/
 subtitle: Using Spring Boot 2.0 and Spring Framework 5.0 features to simplify OAuth
   2.0 Login
 title: How to use Google OAuth 2.0 in Spring Boot 2.0

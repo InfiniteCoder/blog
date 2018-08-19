@@ -1,6 +1,8 @@
 ---
 date: "2018-02-28T00:00:00Z"
 published: true
+aliases:
+    - /2018-02-28-finding-popular-sites/
 title: Finding popular sites from data breach list
 ---
 

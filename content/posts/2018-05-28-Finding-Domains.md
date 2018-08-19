@@ -1,6 +1,8 @@
 ---
 date: "2018-05-28T00:00:00Z"
 published: true
+aliases:
+    - /2018-05-28-finding-domains/
 subtitle: Automate boring task of trial and error while going through hundreds of
   domain names.
 title: Finding short, good domain names using AWS API ( Free of Cost )
