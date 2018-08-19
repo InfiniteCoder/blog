@@ -1,0 +1,25 @@
+baseurl = "https://infinitecoder.github.io/"
+title = "Aditya Patil's Blog"
+copyright = "Copyright &copy; 2018 - Aditya Patil"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Aditya Patil"
+    github = "infinitecoder"
+    gitlab = ""
+    linkedin = "aditya-patil"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+
+[params]
+    tagline = "CS, Linux and Programming"
+
+
